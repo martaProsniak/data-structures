@@ -1,4 +1,4 @@
-import { LinkedList } from './linked-list.js';
+const LinkedList = require('./linked-list')
 
 class Queue {
   constructor() {
